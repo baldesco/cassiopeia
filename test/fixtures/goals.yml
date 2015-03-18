@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  minute: 1
+  goal_type: MyString
+
+two:
+  minute: 1
+  goal_type: MyString

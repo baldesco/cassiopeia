@@ -1,0 +1,11 @@
+<h1>Detalle del usuario</h1>
+
+<h2>Nombre de usuario:</h2> <%= @user.username %>
+<br/>
+<h2>Email:</h2> <%= @user.email %> 
+<br/>
+
+
+
+
+<%= link_to 'Volver al listado', url_for(controller: :users, action: :index) %>

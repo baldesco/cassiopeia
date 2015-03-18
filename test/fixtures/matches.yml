@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_date: 2015-03-09 21:11:26
+  local_pos: 1.5
+  away_pos: 1.5
+  local_shots: 1
+  away_shots: 1
+  local_shots_target: 1
+  away_shots_targer: 1
+  score: MyString
+
+two:
+  match_date: 2015-03-09 21:11:26
+  local_pos: 1.5
+  away_pos: 1.5
+  local_shots: 1
+  away_shots: 1
+  local_shots_target: 1
+  away_shots_targer: 1
+  score: MyString
